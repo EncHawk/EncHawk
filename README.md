@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @EncHawk
+- 👀 I’m interested in ... Aritificial Intelligence, Web development and Data structures, Algorithms
+- 🌱 I’m currently learning ... Data Structures and Algorithms
+- 💞️ I’m looking to collaborate on ... Anything unless and until i find a proper team-mate
+- 📫 How to reach me ... X: D_Leap07, Mail: dilipkumar2000.r@gmail.com
+- ⚡ Fun fact: ... I love playing chess. Astronomy was something i wanted to pursue, maybe i will ...
