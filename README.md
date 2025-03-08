@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @EncHawk
+- 👋 Hi, I’m Dilip 
 - 👀 I’m interested in ... Aritificial Intelligence, Web development and Data structures, Algorithms
 - 🌱 I’m currently learning ... Data Structures and Algorithms
 - 💞️ I’m looking to collaborate on ... Anything unless and until i find a proper team-mate
