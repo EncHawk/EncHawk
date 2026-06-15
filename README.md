@@ -1,4 +1,4 @@
-<img width="600" height="400" alt="octocat-1780316345034" src="https://github.com/user-attachments/assets/f749fa9b-7763-4978-95f9-74231148be37" />
+<img width="400" height="400" alt="octocat-1780316345034" src="https://github.com/user-attachments/assets/f749fa9b-7763-4978-95f9-74231148be37" />
 
 # 💫 About Me:
 i train machine, machine go brrr. machine learn.
